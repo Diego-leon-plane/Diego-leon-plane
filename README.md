@@ -2,7 +2,7 @@
 
 ## About Me
 
-I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
+I really enjoy everything related to technology, programming, i'm passionate about web development. I love solving logical challenges, learning new technologies, and strengthening my cybersecurity skills.
 
 🌿 Trying to become a better person every day. 
 
