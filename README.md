@@ -26,3 +26,11 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## Contact
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-leonandres813@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonandres813@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-diegogu1@outlook.es-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diegogu1@outlook.es)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-andrés-gutiérrez-león-89526634a)
+
+
+
